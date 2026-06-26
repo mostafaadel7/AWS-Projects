@@ -13,7 +13,7 @@ A collection of hands-on AWS labs and tasks covering core cloud services.
 | 03 | [App Runner – Container Deployment](./03-App-Runner/) | AWS App Runner |
 | 04 | [AWS Amplify – Full Stack App Hosting](./04-AWS-Amplify/) | Amplify, CDN, CI/CD |
 | 05 | [CloudMart – Static Web Infrastructure](./05-CloudMart-S3-CloudFront/) | S3, CloudFront, CloudWatch |
-| 06 | [Elastic File Share Mount](./06-EFS-EC2-/) |
+| 06 | [Elastic File Share Mount](./06-EFS-EC2-/) | EFS-EC2 |
 ---
 
 ## 🛠️ Tools Used
